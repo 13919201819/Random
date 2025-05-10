@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
 
-    "homepage": "https://13919201819.github.io/next-portfolio-ghpages",
+    "homepage": "https://13919201819.github.io/Random",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
